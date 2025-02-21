@@ -1,9 +1,9 @@
 # Gestión de las Operaciones <img width="60" height="60" src="https://img.icons8.com/external-outline-juicy-fish/60/external-operations-devops-outline-outline-juicy-fish.png" alt="external-operations-devops-outline-outline-juicy-fish"/>
 
 Este repositorio contiene el proyecto integrador realizado en la asignatura: "Gestión de las Operaciones" de la Universidad Católica de Santa Fe.
-### En desarrollo...
-###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
-### Proyecto: Maceta IoT <img width="40" height="40" src="https://img.icons8.com/fluency/48/potted-plant.png" alt="potted-plant"/> <img width="40" height="40" src="https://img.icons8.com/ios/50/iot-sensor.png" alt="iot-sensor"/>
+###  
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+## Proyecto: Maceta IoT <img width="40" height="40" src="https://img.icons8.com/fluency/48/potted-plant.png" alt="potted-plant"/> <img width="40" height="40" src="https://img.icons8.com/ios/50/iot-sensor.png" alt="iot-sensor"/>
 ###  ‎
 
 ### Introducción
@@ -47,16 +47,11 @@ Implementación del proceso de manufactura para la producción en masa.
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 
 ### Diagrama de Bloques 
-![Image](https://github.com/user-attachments/assets/d18e721c-27d5-448f-82bf-8f516ea6a6b0)
-###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 #### En el diagrama de bloques podemos ver de manera directa las etapas del proceso de desarrollo de la maceta. Empezamos con la investigación de mercado y relevamiento de requerimientos, donde se identifican necesidades y especificaciones. Luego, se realiza un diseño conceptual, seguido del diseño detallado, en el cual se definen aspectos técnicos específicos. A continuación, se lleva a cabo el prototipado y pruebas, permitiendo validar el diseño y realizar mejoras. Posteriormente, se realiza la optimización del diseño, ajustando detalles antes de la fabricación, que es la fase final en la que el producto es producido a escala.
 
-
-
+![Image](https://github.com/user-attachments/assets/d18e721c-27d5-448f-82bf-8f516ea6a6b0)
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
-### Diseño de la instalación 
-#### El modelo seleccionado para diseñar la instalación es el layout híbrido (celular), brindando múltiples beneficios. Entre ellos, destaca la flexibilidad para personalizar el producto según las preferencias del cliente, la eficiencia en la producción al minimizar los tiempos de cambio entre diferentes etapas del proceso, y la mejora en el control de calidad, ya que cada célula se especializa en una parte específica del proceso. Además, optimiza el uso de maquinaria y mano de obra, reduciendo costos operativos.
-###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 
 ### Diagrama de flujo de procesos
 ![Image](https://github.com/user-attachments/assets/0f410628-f035-48ce-9fd1-53e38be00053)
@@ -75,10 +70,9 @@ Implementación del proceso de manufactura para la producción en masa.
 
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
-### Estrategia de ventas <img width="33" height="33" src="https://img.icons8.com/plumpy/24/total-sales.png" alt="total-sales"/>
-###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+### Ventas <img width="33" height="33" src="https://img.icons8.com/plumpy/24/total-sales.png" alt="total-sales"/>
 
-#### La estrategia para aumentar las ventas de la maceta IoT se basa en cuatro pilares clave: innovación, promoción, expansión y marketing digital. Se introducirán nuevas versiones con mejoras en sensores y conectividad, junto con descuentos y programas de fidelización para incentivar la compra. Además, se ampliará la distribución a nuevos mercados y canales especializados, incluyendo alianzas estratégicas. Por último, se implementarán campañas de marketing digital enfocadas en destacar las ventajas tecnológicas y ecológicas del producto, aprovechando redes sociales, influencers y publicidad segmentada. Con estas acciones, se busca incrementar las ventas en un 10% y fortalecer el posicionamiento de la marca.
+#### El objetivo para aumentar las ventas de la maceta IoT se basa en cuatro pilares clave: innovación, promoción, expansión y marketing digital. Se introducirán nuevas versiones con mejoras en sensores y conectividad, junto con descuentos y programas de fidelización para incentivar la compra. Además, se ampliará la distribución a nuevos mercados y canales especializados, incluyendo alianzas estratégicas. Por último, se implementarán campañas de marketing digital enfocadas en destacar las ventajas tecnológicas y ecológicas del producto, aprovechando redes sociales, influencers y publicidad segmentada. Con estas acciones, se busca incrementar las ventas en un 10% y fortalecer el posicionamiento de la marca.
 
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 
@@ -124,10 +118,6 @@ Implementación del proceso de manufactura para la producción en masa.
 ![Image](https://github.com/user-attachments/assets/b58a4355-4b94-4fcb-9e6a-b0c1cb6023b3)
 
 #### El análisis sugiere que la mejor opción es construir una planta mediana, ya que ofrece una buena rentabilidad en un mercado favorable y limita las pérdidas en caso de un mercado desfavorable. Esto balancea el riesgo y la oportunidad de ganancia, optimizando la decisión de inversión.
-
-
-
-
 
 
 
@@ -177,17 +167,12 @@ Implementación del proceso de manufactura para la producción en masa.
 
 
 
-
-
-
-
-
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 ### Teoría de las Restricciones
 #### Con esta teoría buscamos identificar y optimizar los cuellos de botella en el sistema productivo, entendiendo que todo sistema tiene un proceso proceso con al menos un recurso limitante (restricción) que determina su rendimiento global. Para mejorar la producción, identificamos el cuello de botella para gestionarlo de manera más eficiente.
 
-#### El siguiente gráfico vemos la aplicación de la Teoría de las Restricciones al visualizar cómo los cuellos de botella limitan la producción total. La sincronización mediante cuerdas y la protección con amortiguadores permiten que el sistema funcione de manera estable y eficiente, evitando tiempos muertos y sobreproducción en etapas anteriores. Para mejorar el rendimiento, se debe trabajar en la optimización de estos cuellos de botella.
+#### En el siguiente gráfico vemos la aplicación de la Teoría de las Restricciones al visualizar cómo los cuellos de botella limitan la producción total. La sincronización mediante cuerdas y la protección con amortiguadores permiten que el sistema funcione de manera estable y eficiente, evitando tiempos muertos y sobreproducción en etapas anteriores. Para mejorar el rendimiento, se debe trabajar en la optimización de estos cuellos de botella.
 
 
 ![Image](https://github.com/user-attachments/assets/8f043fb7-a2e9-4602-ac8a-d64c3aba29d2)
@@ -208,12 +193,18 @@ Implementación del proceso de manufactura para la producción en masa.
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 ### Capacidad productiva ramal 1
+#### El Ramal 1 muestra una marcada dependencia de la eliminación de restricciones para mejorar su rentabilidad. Su throughput casi se duplica al pasar de $16.800 a $32.200, y el beneficio neto aumenta de $10.800 a $26.200 cuando se maximiza su capacidad. Esto indica que las limitaciones actuales afectan significativamente su eficiencia y que la optimización de recursos o la inversión en infraestructura podrían generar un impacto positivo considerable en su desempeño.
+
+
 ![Image](https://github.com/user-attachments/assets/d8f5a686-b0ad-45f7-a25a-cedd1f52c2c1)
 
 
 ### Capacidad productiva ramal 2
+#### En el caso del Ramal 2, vemos una menor diferencia entre operar con capacidad restringida y máxima capacidad utilizada. El throughput aumenta de $25.200 a $28.000, y el beneficio neto solo varía de $19.200 a $22.000. Esto sugiere que este ramal opera con una mayor estabilidad y eficiencia incluso en condiciones limitadas, lo que significa que las restricciones no representan un obstáculo tan crítico como en el Ramal 1.
+
 ![Image](https://github.com/user-attachments/assets/0001ec1d-eb8d-4668-98ed-8cadf23bda2d)
 
+#### La estrategia de mejora debe centrarse en desbloquear el potencial del Ramal 1, eliminando restricciones y optimizando su producción para aprovechar su capacidad máxima. En el caso del Ramal 2, por lo tanto el enfoque debería estar en mejoras más específicas, como la optimización de costos o la eficiencia operativa, ya que su desempeño es más estable y menos dependiente de los cambios en la capacidad utilizada.
 
 
 
