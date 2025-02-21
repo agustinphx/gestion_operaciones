@@ -121,16 +121,22 @@ Implementación del proceso de manufactura para la producción en masa.
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 ### Árbol de decisión
 #### En el siguiente árbol de decisión, se evalúan las diferentes opciones de inversión para la construcción de una planta de producción, considerando escenarios de mercado favorable y desfavorable, junto con sus respectivas probabilidades y resultados económicos.
+![Image](https://github.com/user-attachments/assets/b58a4355-4b94-4fcb-9e6a-b0c1cb6023b3)
+
+#### El análisis sugiere que la mejor opción es construir una planta mediana, ya que ofrece una buena rentabilidad en un mercado favorable y limita las pérdidas en caso de un mercado desfavorable. Esto balancea el riesgo y la oportunidad de ganancia, optimizando la decisión de inversión.
 
 
-#### Se plantean distintos escenarios donde puede haber una necesidad de aumentar la capacidad debido a la demanda.
+
+
 
 
 
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 ### Diagrama de Ishikawa de Causa-Efecto
+#### En el siguiente Diagrama de Ishikawa analizo por qué los clientes devolverían la maceta frecuentemente. Entre los factores que se podrían identificar se encuentran problemas con la maquinaria, como el sobrecalentamiento de la impresora 3D; fallas en el método, debido a un deficiente control de conectividad; limitaciones en la mano de obra, con pocos empleados y conocimientos generalistas; impacto del medio ambiente, que afecta los sensores IoT y genera filtraciones de agua; uso de materiales frágiles y reciclados; y errores en la medición, con mala estimación de la demanda y retrasos en las entregas.
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+
 ![Image](https://github.com/user-attachments/assets/b9fa2c62-f29a-4d13-a6e3-4579c5a8fec3)
 
 
