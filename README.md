@@ -185,24 +185,24 @@ Implementación del proceso de manufactura para la producción en masa.
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 ### Teoría de las Restricciones
+#### Con esta teoría buscamos identificar y optimizar los cuellos de botella en el sistema productivo, entendiendo que todo sistema tiene un proceso proceso con al menos un recurso limitante (restricción) que determina su rendimiento global. Para mejorar la producción, identificamos el cuello de botella para gestionarlo de manera más eficiente.
+
+#### El siguiente gráfico vemos la aplicación de la Teoría de las Restricciones al visualizar cómo los cuellos de botella limitan la producción total. La sincronización mediante cuerdas y la protección con amortiguadores permiten que el sistema funcione de manera estable y eficiente, evitando tiempos muertos y sobreproducción en etapas anteriores. Para mejorar el rendimiento, se debe trabajar en la optimización de estos cuellos de botella.
+
+
 ![Image](https://github.com/user-attachments/assets/8f043fb7-a2e9-4602-ac8a-d64c3aba29d2)
 
-#### Métodos de tambor, cuerdas y amortiguadores aplicados a los procesos productivos.
-
+#### Referencias:
+#### El Tambor: Es el ritmo del sistema, marcado por el cuello de botella.
+#### La Cuerda: Es la sincronización entre los procesos para no sobrecargar el cuello de botella.
+#### El Amortiguador: Es un margen de seguridad que protege al cuello de botella de interrupciones.
 
 
 
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
-### Comparativa de producción por ramas
+### Comparativa de producción por ramal
 ![Image](https://github.com/user-attachments/assets/a6de5de5-5a74-4ef2-ad8d-34e61ffa5458)
-
-#### Comparación de unidades producidas mensuales por ramal
-
-
-
-
-
 
 
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
