@@ -49,6 +49,7 @@ Implementación del proceso de manufactura para la producción en masa.
 ### Diagrama de Bloques 
 ![Image](https://github.com/user-attachments/assets/d18e721c-27d5-448f-82bf-8f516ea6a6b0)
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+#### En el diagrama de bloques podemos ver de manera directa las etapas del proceso de desarrollo de la maceta. Empezamos con la investigación de mercado y relevamiento de requerimientos, donde se identifican necesidades y especificaciones. Luego, se realiza un diseño conceptual, seguido del diseño detallado, en el cual se definen aspectos técnicos específicos. A continuación, se lleva a cabo el prototipado y pruebas, permitiendo validar el diseño y realizar mejoras. Posteriormente, se realiza la optimización del diseño, ajustando detalles antes de la fabricación, que es la fase final en la que el producto es producido a escala.
 
 
 
@@ -77,11 +78,18 @@ Implementación del proceso de manufactura para la producción en masa.
 ### Estrategia de ventas <img width="33" height="33" src="https://img.icons8.com/plumpy/24/total-sales.png" alt="total-sales"/>
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 
+#### La estrategia para aumentar las ventas de la maceta IoT se basa en cuatro pilares clave: innovación, promoción, expansión y marketing digital. Se introducirán nuevas versiones con mejoras en sensores y conectividad, junto con descuentos y programas de fidelización para incentivar la compra. Además, se ampliará la distribución a nuevos mercados y canales especializados, incluyendo alianzas estratégicas. Por último, se implementarán campañas de marketing digital enfocadas en destacar las ventajas tecnológicas y ecológicas del producto, aprovechando redes sociales, influencers y publicidad segmentada. Con estas acciones, se busca incrementar las ventas en un 10% y fortalecer el posicionamiento de la marca.
+
+###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 
 
 ### Curva de ciclo de vida
 ![Image](https://github.com/user-attachments/assets/f69b7503-8c6a-49d2-9677-2e13260b4f5b)
-#### Curva de ciclo de vida de las ventas en función de datos proporcionados por la cátedra: 
+####  En la curva podemos apreciar la evolución de las ventas a lo largo del potencial ciclo de vida de la comercialización de la maceta inteligente, dividido en cuatro fases: introducción, en donde tenemos que las ventas comienzan a incrementarse de manera gradual; crecimiento, caracterizado por un aumento sostenido en la demanda; madurez, fase en la que las ventas alcanzan su punto máximo (680 unidades); y declive, donde las ventas comienzan a disminuir (580 unidades). 
+#### Este comportamiento nos muestra la importancia de implementar una estrategia de ventas que acompañe a la comercialización de la maceta para prolongar la permanencia de la misma en el mercado.
+
+
+
 
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
@@ -98,10 +106,6 @@ Implementación del proceso de manufactura para la producción en masa.
 
 
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
-
-
-
-###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 ### Análisis de productividad
 ![Image](https://github.com/user-attachments/assets/168efd2b-5990-4247-955d-7e56a0330a4e)
 
@@ -115,8 +119,10 @@ Implementación del proceso de manufactura para la producción en masa.
 
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
-### Árbol de decisión y recomendación
-###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+### Árbol de decisión
+#### En el siguiente árbol de decisión, se evalúan las diferentes opciones de inversión para la construcción de una planta de producción, considerando escenarios de mercado favorable y desfavorable, junto con sus respectivas probabilidades y resultados económicos.
+
+
 #### Se plantean distintos escenarios donde puede haber una necesidad de aumentar la capacidad debido a la demanda.
 
 
@@ -131,7 +137,7 @@ Implementación del proceso de manufactura para la producción en masa.
 
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
-### Flujograma de producción ......
+### Flujograma de producción <img width="40" height="40" src="https://img.icons8.com/windows/32/Production-Line.png" alt="Production-Line"/>
 ###  ‎
 ![Image](https://github.com/user-attachments/assets/8d0cda26-13a4-4875-8d8a-fa573c0caa70)
 
