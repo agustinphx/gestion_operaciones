@@ -19,28 +19,43 @@ Este repositorio contiene el proyecto integrador realizado en la asignatura: "Ge
 
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
-### Estrategia de diseño
-###  ‎
+### Estrategia de diseño ![Image](https://github.com/user-attachments/assets/57bb5c7f-6c7d-4ebf-9f75-62cdaaeaa2ae)
+#### ‎El diseño del producto combina un enfoque ecológico, utilizando materiales reciclables y componentes energéticamente eficientes, con un carácter innovador mediante la integración de sensores y riego automático. En términos de estrategia competitiva, se destaca por su innovación tecnológica y un alto grado de especialización en mano de obra y sostenibilidad.
 
 
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
-### Etapas de diseño
-###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+### Etapas de diseño  ![Image](https://github.com/user-attachments/assets/ed725020-ad8d-4cbf-bd8d-cdd0c1c5b3ee)
+#### Investigación y definición de requisitos
+Identificación de necesidades del mercado y funcionalidades clave.
+
+#### Diseño conceptual
+Generación de ideas y conceptos para la maceta inteligente.
+
+#### Diseño detallado
+Desarrollo de los aspectos técnicos del producto.
+
+#### Prototipado y pruebas
+Construcción de prototipos y realización de pruebas de funcionamiento y eficiencia.
+
+#### Optimización del diseño
+Ajustes y mejoras basadas en pruebas y retroalimentación.
+
+#### Fabricación
+Implementación del proceso de manufactura para la producción en masa.
+
+
+
+
 
 
 
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 ### Diseño de la instalación 
-#### El modelo seleccionado para diseñar la instalación es el Layout híbrido (celular) el cuál se fundamenta para este proyecto en:
-#### Flexibilidad para personalizar el producto según las preferencias del cliente.
-#### Eficiencia en la producción, minimizando los tiempos de cambio entre diferentes etapas del proceso.
-#### Mejora en el control de calidad, con cada célula especializada en una parte específica del proceso.
-#### Optimización del uso de maquinaria y mano de obra, reduciendo costos operativos.
+#### El modelo seleccionado para diseñar la instalación es el layout híbrido (celular), brindando múltiples beneficios. Entre ellos, destaca la flexibilidad para personalizar el producto según las preferencias del cliente, la eficiencia en la producción al minimizar los tiempos de cambio entre diferentes etapas del proceso, y la mejora en el control de calidad, ya que cada célula se especializa en una parte específica del proceso. Además, optimiza el uso de maquinaria y mano de obra, reduciendo costos operativos.
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 
 ### Diagrama de flujo de procesos
 ![Image](https://github.com/user-attachments/assets/0f410628-f035-48ce-9fd1-53e38be00053)
-###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 #### Referencias: 
 #### CA: Control de calidad del plástico
 #### M: Modelo
@@ -56,7 +71,7 @@ Este repositorio contiene el proyecto integrador realizado en la asignatura: "Ge
 
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
-### Estrategia de ventas
+### Estrategia de ventas <img width="33" height="33" src="https://img.icons8.com/plumpy/24/total-sales.png" alt="total-sales"/>
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 
 
