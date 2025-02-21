@@ -144,10 +144,12 @@ Implementación del proceso de manufactura para la producción en masa.
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 ### Flujograma de producción <img width="40" height="40" src="https://img.icons8.com/windows/32/Production-Line.png" alt="Production-Line"/>
+#### Describe el proceso de fabricación y entrega de una maceta inteligente. Comienza con la recepción del pedido y la solicitud de materiales al proveedor. Tras recibirlos, se valida su calidad; si no son óptimos, se gestionan cambios o reembolsos. Luego, se imprime la maceta en 3D; si la impresión falla, el producto se descarta. Si es exitosa, se ensambla el hardware y se programa el software, realizando pruebas de calidad y ajustes si es necesario. Se verifica la hermeticidad para evitar filtraciones; si falla, el producto se descarta. Finalmente, se embala y se validan los datos de envío del cliente antes de despachar el pedido. Este proceso garantiza un control riguroso de calidad en cada etapa.
+
 ###  ‎
 ![Image](https://github.com/user-attachments/assets/8d0cda26-13a4-4875-8d8a-fa573c0caa70)
 
-#### Este flujograma contiene los procesos involucrados para obtener y controlar la calidad de la materia prima,  moldear, ensamblar y validar sensores dentro la maceta, y por último, hacer testeos del software de la maceta inteligente.
+#### El flujograma contiene los procesos involucrados para obtener y controlar la calidad de la materia prima,  moldear, ensamblar y validar sensores dentro la maceta, y por último, hacer testeos del software de la maceta inteligente.
 
 
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
@@ -160,8 +162,8 @@ Implementación del proceso de manufactura para la producción en masa.
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 ### Supply chain - Enfoque Pull
+#### Este sistema Pull permite una producción más eficiente, alineada con la demanda real, minimizando inventarios y garantizando flexibilidad en la personalización, asegurando una mejor experiencia para el cliente y optimizando los recursos de la empresa.
 ###  ‎
-
 ![Image](https://github.com/user-attachments/assets/d4c511ce-3ebe-4dcf-b9a6-b159f945b24f)
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 
