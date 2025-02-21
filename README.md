@@ -9,12 +9,12 @@ Este repositorio contiene el proyecto integrador realizado en la asignatura: "Ge
 ### Introducción
 #### En un mundo donde la tecnología y la sostenibilidad son factores clave en las preferencias de los consumidores, surge la necesidad de una maceta inteligente que integre características diferenciales para optimizar el cuidado de las plantas en el hogar.
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
-#### Características principales: 
-#### Sistema de riego automático.
-#### Sustentable al usar PET reciclado.
-#### Hardware integrado con sensores de luz, humedad y temperatura.
-#### Funcionalidades del software desarrolladas en lenguaje C++.
-#### Conectividad a través de una aplicación móvil.
+### Características principales: 
+#### <img src="https://img.icons8.com/plumpy/15/000000/sphere.png"/> Sistema de riego automático.
+#### <img src="https://img.icons8.com/plumpy/15/000000/sphere.png"/> Sustentable al usar PET reciclado.
+#### <img src="https://img.icons8.com/plumpy/15/000000/sphere.png"/> Hardware integrado con sensores de luz, humedad y temperatura.
+#### <img src="https://img.icons8.com/plumpy/15/000000/sphere.png"/> Funcionalidades del software desarrolladas en lenguaje C++.
+#### <img src="https://img.icons8.com/plumpy/15/000000/sphere.png"/> Conectividad a través de una aplicación móvil.
 
 
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
