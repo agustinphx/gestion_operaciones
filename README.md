@@ -44,10 +44,13 @@ Ajustes y mejoras basadas en pruebas y retroalimentación.
 Implementación del proceso de manufactura para la producción en masa.
 
 
+### Diagrama de Bloques 
+![Image](https://github.com/user-attachments/assets/d18e721c-27d5-448f-82bf-8f516ea6a6b0)
+###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 
 
-
-
+### Curva de ciclo de vida
+![Image](https://github.com/user-attachments/assets/f69b7503-8c6a-49d2-9677-2e13260b4f5b)
 
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 ### Diseño de la instalación 
