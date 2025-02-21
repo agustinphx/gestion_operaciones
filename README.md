@@ -24,33 +24,34 @@ Este repositorio contiene el proyecto integrador realizado en la asignatura: "Ge
 
 
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
-#### Etapas de diseño
+### Etapas de diseño
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 
 
 
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
-#### Diseño de la instalación 
-###  ‎ 
+### Diseño de la instalación 
 #### El modelo seleccionado para diseñar la instalación es el Layout híbrido (celular) el cuál se fundamenta para este proyecto en:
 #### Flexibilidad para personalizar el producto según las preferencias del cliente.
 #### Eficiencia en la producción, minimizando los tiempos de cambio entre diferentes etapas del proceso.
 #### Mejora en el control de calidad, con cada célula especializada en una parte específica del proceso.
 #### Optimización del uso de maquinaria y mano de obra, reduciendo costos operativos.
+###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 
-#### Diagrama de flujo de proceso
-![Image](https://github.com/user-attachments/assets/71dfa274-e21d-4bbf-b440-01dbc4f2a749)
-Referencias: 
-CA: Control de calidad del plástico
-M: Modelo
-I: Instalación del sistema de riesgo
-P: Programación de software
-C: Conectividad Bluetooth
-ST: Software testing 
-CAC: Control de calidad de conectividad
-EF: Ensamblaje final
-CC: Control de calidad general
-D o R: Despacho o Retiro
+### Diagrama de flujo de procesos
+![Image](https://github.com/user-attachments/assets/0f410628-f035-48ce-9fd1-53e38be00053)
+###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+#### Referencias: 
+#### CA: Control de calidad del plástico
+#### M: Modelo
+#### I: Instalación del sistema de riesgo
+#### P: Programación de software
+#### C: Conectividad Bluetooth
+#### ST: Software testing 
+#### CAC: Control de calidad de conectividad
+#### EF: Ensamblaje final
+#### CC: Control de calidad general
+#### D o R: Despacho o Retiro
 
 
 ###  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
