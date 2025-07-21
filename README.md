@@ -3,6 +3,27 @@
 Este repositorio contiene el proyecto integrador realizado en la asignatura: "Gestión de las Operaciones" de la Universidad Católica de Santa Fe.
 ###  
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+
+
+
+
+
+### La asignatura está compuesta por los siguientes contenidos:
+#### <img src="https://img.icons8.com/plumpy/15/000000/sphere.png"/> Ciclo de vida del producto  
+#### <img src="https://img.icons8.com/plumpy/15/000000/sphere.png"/> Introducción a Lean Six Sigma
+#### <img src="https://img.icons8.com/plumpy/15/000000/sphere.png"/> Árboles de decisión y recomendación 
+#### <img src="https://img.icons8.com/plumpy/15/000000/sphere.png"/> Métodos de producción y análisis de productividad
+#### <img src="https://img.icons8.com/plumpy/15/000000/sphere.png"/> Diagrama de Ishikawa, de bloques, de flujos de procesos
+#### <img src="https://img.icons8.com/plumpy/15/000000/sphere.png"/> Supply chain (teoría de las restricciones, gestión de inventario, proceso pull )
+
+
+
+
+
+
+
+
+
 ## Proyecto: Maceta IoT <img width="40" height="40" src="https://img.icons8.com/fluency/48/potted-plant.png" alt="potted-plant"/> <img width="40" height="40" src="https://img.icons8.com/ios/50/iot-sensor.png" alt="iot-sensor"/>
 ###  ‎
 
